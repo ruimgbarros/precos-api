@@ -1,4 +1,4 @@
-article,producto,date_begin,price_begin,date_end,price_end,diff,var_txt
+article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
 o,Óleo alimentar 100% vegetal,2022-01-05,2.30,2022-04-27,3.69,1.39,61%
 o,Tomate,2022-01-05,2.11,2022-04-27,2.97,0.86,41%
 o,Salmão,2022-01-05,10.88,2022-04-27,14.98,4.10,38%
