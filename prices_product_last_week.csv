@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-o,Iogurte líquido morango,2022-06-29,1.92,2022-07-06,2.12,0.20,10
-a,Maçã golden,2022-06-29,1.62,2022-07-06,0.16,10
-a,Pescada fresca,2022-06-29,8.82,2022-07-06,9.50,0.68,8
-o,Tomate,2022-06-29,2.05,2022-07-06,2.20,0.15,8
+o,Iogurte líquido morango,2022-07-06,2.12,2022-07-13,2.48,0.36,17
+o,Carapau,2022-07-06,3.35,2022-07-13,3.81,0.46,14
+os,Flocos de Cereais,2022-07-06,1.90,2022-07-13,2.08,0.18,10
+o,Atum posta em óleo vegetal,2022-07-06,1.50,2022-07-13,1.61,0.11,8%
