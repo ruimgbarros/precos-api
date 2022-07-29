@@ -1,6 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-os,"Cereais trigo, arroz e aveia integrais",2022-07-13,2.52,2022-07-20,3.17,0.65,26
-o,Arroz agulha,2022-07-13,1.27,2022-07-20,1.41,0.14,11
-o,Atum posta em azeite,2022-07-13,1.59,2022-07-20,1.73,0.15,9
-o,Tomate,2022-07-13,2.10,2022-07-20,2.28,0.18,9
-a,Massa espirais,2022-07-13,1.28,2022-07-20,1.39,0.11,9
+a,Courgete,2022-07-20,1.65,2022-07-20,1.81,0.16,10
+a,Pescada fresca,2022-07-20,8.69,2022-07-20,9.43,0.74,9
+a,Cebola,2022-07-20,1.04,2022-07-20,1.12,0.08,8
+a,Alface frisada,2022-07-20,2.11,2022-07-20,2.26,0.15,7
