@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-a,Courgete,2022-07-20,1.65,2022-07-20,1.81,0.16,10
-a,Pescada fresca,2022-07-20,8.69,2022-07-20,9.43,0.74,9
-a,Cebola,2022-07-20,1.04,2022-07-20,1.12,0.08,8
-a,Alface frisada,2022-07-20,2.11,2022-07-20,2.26,0.15,7
+a,Polpa de tomate,2022-07-27,0.90,2022-08-03,1.04,0.13,15
+a,Alface frisada,2022-07-27,2.26,2022-08-03,2.52,0.26,12
+o,Iogurte líquido morango,2022-07-27,1.98,2022-08-03,2.21,0.23,11
+o,Carapau,2022-07-27,3.04,2022-08-03,3.37,0.33,11
