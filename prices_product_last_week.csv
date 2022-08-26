@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-a,Cebola,2022-08-10,1.08,2022-08-17,1.19,0.11,10
-os,Bróculos,2022-08-10,2.76,2022-08-17,3.02,0.26,9
-o,Peito de Peru fatiado,2022-08-10,2.32,2022-08-17,2.53,0.21,9
-a,Farinha para bolos,2022-08-10,1.71,2022-08-17,1.82,0.10,6
+a,Pescada fresca,2022-08-17,7.82,2022-08-24,10.90,3.08,39
+o,Café torrado moído,2022-08-17,2.71,2022-08-24,3.11,0.40,15
+o,Atum posta em óleo vegetal,2022-08-17,1.41,2022-08-24,1.59,0.18,13
+a,Courgete,2022-08-17,1.62,2022-08-24,1.80,0.18,11
