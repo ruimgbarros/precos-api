@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-o,Queijo flamengo,2022-08-24,2.21,2022-08-31,2.34,0.12,6
-os,Medalhões Pescada,2022-08-24,6.01,2022-08-31,6.32,0.31,5
-o,Pão de forma sem côdea,2022-08-24,1.76,2022-08-31,1.84,0.08,5
-a,Cenoura,2022-08-24,0.84,2022-08-31,0.87,0.04,5
+as,Ervilhas ultracongeladas,2022-08-31,3.08,2022-09-07,3.66,0.58,19
+a,Courgete,2022-08-31,1.71,2022-09-07,1.92,0.22,13
+os,"Cereais de trigo, arroz e aveia integrais",2022-08-31,2.88,2022-09-07,3.21,0.33,12
+o,Café torrado moído,2022-08-31,2.87,2022-09-07,3.14,0.27,9
