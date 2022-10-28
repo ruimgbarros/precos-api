@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-o,Iogurte líquido morango,2022-10-12,1.95,2022-10-19,2.34,0.39,20
-o,Açúcar branco,2022-10-12,1.33,2022-10-19,1.56,0.23,17
-os,Cereais,2022-10-12,2.67,2022-10-19,3.11,0.44,17
-o,Alho seco,2022-10-05,2.61,2022-10-19,2.94,0.33,13
+os,Flocos de Cereais,2022-10-19,2.06,2022-10-22,2.27,0.21,10
+o,Salmão,2022-10-19,12.03,2022-10-22,13.27,1.24,10
+a,Laranja,2022-10-19,1.43,2022-10-22,1.56,0.13,9
+o,Iogurte líquido morango,2022-10-29,2.34,2022-10-22,2.52,0.19,8
