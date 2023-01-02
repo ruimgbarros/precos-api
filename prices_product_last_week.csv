@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-os,Cereais,2022-12-14,3.10,2022-12-21,3.47,0.37,12
-o,Peixe espada preto,2022-12-14,6.97,2022-12-21,7.56,0.59,9
-o,Fiambre Perna Extra,2022-12-14,2.33,2022-12-21,2.45,0.12,5
-a,Batata vermelha,2022-12-14,2.86,2022-12-21,3.00,0.14,5
+as,Ervilhas ultracongeladas,2022-12-21,3.34,2022-12-28,3.84,0.50,15
+o,Salmão,2022-12-21,12.43,2022-12-28,13.49,1.06,9
+o,Carapau,2022-12-21,4.13,2022-12-28,4.40,0.26,6
+os,Cereais,2022-12-21,3.47,2022-12-28,3.69,0.22,6
