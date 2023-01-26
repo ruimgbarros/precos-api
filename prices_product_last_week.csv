@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-os,"Cereais trigo, arroz e aveia integrais",2023-01-11,2.95,2023-01-18,3.38,0.42,14
-o,Atum posta em azeite,2023-01-11,1.69,2023-01-18,1.81,0.12,7
-o,Arroz carolino,2023-01-11,2.06,2023-01-18,2.21,0.15,7
-a,Massa esparguete,2023-01-11,1.15,2023-01-18,1.23,0.08,7
+a,Polpa de tomate,2023-01-18,1.26,2023-01-25,1.47,0.21,17
+o,Carapau,2023-01-18,4.43,2023-01-25,4.80,0.37,8
+a,Maçã gala,2023-01-18,1.97,2023-01-25,2.13,0.16,8
+os,Flocos de cereais,2023-01-18,2.09,2023-01-25,2.26,0.16,8
