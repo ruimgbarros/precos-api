@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-a,Polpa de tomate,2023-01-18,1.26,2023-01-25,1.47,0.21,17
-o,Carapau,2023-01-18,4.43,2023-01-25,4.80,0.37,8
-a,Maçã gala,2023-01-18,1.97,2023-01-25,2.13,0.16,8
-os,Flocos de cereais,2023-01-18,2.09,2023-01-25,2.26,0.16,8
+a,Pescada fresca,2023-01-25,8.28,2023-02-01,10.61,2.34,28
+os,Medalhões de pescada,2023-01-25,5.97,2023-02-01,6.95,0.98,16
+o,Atum posta em azeite,2023-01-25,1.65,2023-02-01,1.85,0.20,12
+o,Peito de peru,2023-01-25,2.36,2023-02-01,2.56,0.20,9
