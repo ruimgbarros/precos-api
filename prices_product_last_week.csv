@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-a,Pescada fresca,2023-01-25,8.28,2023-02-01,10.61,2.34,28
-os,Medalhões de pescada,2023-01-25,5.97,2023-02-01,6.95,0.98,16
-o,Atum posta em azeite,2023-01-25,1.65,2023-02-01,1.85,0.20,12
-o,Peito de peru,2023-01-25,2.36,2023-02-01,2.56,0.20,9
+a,Couve flor,2023-02-01,2.45,2023-02-08,2.79,0.35,14
+o,Robalo,2023-02-01,6.70,2023-02-08,7.60,0.90,14
+os,Flocos de cereais,2023-02-01,2.13,2023-02-08,2.41,0.28,13
+a,Couve coração,2023-02-01,1.55,2023-02-08,1.73,0.18,12
