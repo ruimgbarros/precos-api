@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-a,Couve flor,2023-02-01,2.45,2023-02-08,2.79,0.35,14
-o,Robalo,2023-02-01,6.70,2023-02-08,7.60,0.90,14
-os,Flocos de cereais,2023-02-01,2.13,2023-02-08,2.41,0.28,13
-a,Couve coração,2023-02-01,1.55,2023-02-08,1.73,0.18,12
+os,Cereais,2023-02-08,3.06,2023-02-15,3.59,0.53,17
+o,Iogurte líquido de morango,2023-02-08,2.22,2023-02-15,2.54,0.32,15
+a,Polpa de tomate,2023-02-08,1.44,2023-02-15,1.63,0.19,13
+o,Arroz carolino,2023-02-08,1.81,2023-02-15,1.97,0.16,9
