@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-a,Couve coração,2023-02-22,2.00,2023-03-01,2.35,0.35,18
-o,Arroz carolino,2023-02-22,2.00,2023-03-01,2.29,0.29,15
-o,Atum posta em óleo vegetal,2023-02-22,1.43,2023-03-01,1.62,0.19,13
-o,Salmão,2023-02-22,14.29,2023-03-01,16.21,1.92,13
+os,Flocos de cereais,2023-03-01,2.29,2023-03-08,2.62,0.33,14
+a,Perca,2023-03-01,10.16,2023-03-08,11.14,0.99,10
+o,Peito de peru fatiado,2023-03-01,2.34,2023-03-08,2.56,0.22,10
+a,Laranja,2023-03-01,1.36,2023-03-08,1.49,0.13,9
