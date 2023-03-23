@@ -1,5 +1,5 @@
 article,produto,date_begin,price_begin,date_end,price_end,diff,var_txt
-o,Bacalhau,2023-03-08,12.62,2023-03-15,14.49,1.88,15
-o,Café torrado moído,2023-03-08,2.99,2023-03-15,3.42,0.43,14
-a,Massa espirais,2023-03-08,1.34,2023-03-15,1.49,0.16,12
-a,Perna de peru,2023-03-08,4.55,2023-03-15,5.01,0.46,10
+o,Carapau,2023-03-15,3.80,2023-03-22,5.44,1.65,43
+o,Iogurte líquido morango,2023-03-15,2.33,2023-03-22,2.71,0.37,16
+o,Atum posta em azeite,2023-03-15,1.64,2023-03-22,1.85,0.21,13
+os,Flocos de cereais,2023-03-15,2.44,2023-03-22,2.70,0.26,10
